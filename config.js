@@ -1,2 +1,2 @@
-// Supabase 프로젝트의 공개 연결 정보만 넣으세요. secret/service_role 키는 넣지 마세요.
-window.LEDGER_CONFIG = { supabaseUrl: '', supabaseKey: '' };
+// Supabase public connection information. Access to records is restricted by database policies.
+window.LEDGER_CONFIG = {"supabaseUrl":"https://xnpushieiimhtfhtlfsp.supabase.co","supabaseKey":"sb_publishable_6AVFWsPwx3hSk8K3S1W0gw_UmMN4zDx"};
